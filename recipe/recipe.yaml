@@ -1,5 +1,5 @@
 context:
-  version: "1.9.0"
+  version: "1.9.1"
 
 package:
   name: ipsw-parser
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/i/ipsw_parser/ipsw_parser-${{ version }}.tar.gz
-  sha256: 4b2f355e0abd307458af4963f9d3aca4d4ab2d73a5f7100d59c000427e444109
+  sha256: 339d923eebd44c04b4504554f13b573a6d1cff9bc99d92427b324c63fc67365c
 
 build:
   number: 0
